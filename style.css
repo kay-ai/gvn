@@ -5431,7 +5431,7 @@ li.list-arrow {
 
 .sservice-area.style-two .services-shape {
   position: absolute;
-  bottom: 27px;
+  /* bottom: 27px; */
   right: 30px;
   transition: 0.5s;
 }
@@ -5490,7 +5490,7 @@ li.list-arrow {
   border-radius: 20px 0 0px 0px;
 }
 
-.team-area.style-inner .single-team-box::after {
+/* .team-area.style-inner .single-team-box::after {
   position: absolute;
   content: "";
   width: 304px;
@@ -5500,7 +5500,7 @@ li.list-arrow {
   bottom: -150px;
   left: 0;
   border-radius: 100%;
-}
+} */
 
 .team-area.style-inner .single-team-thumb::before {
   position: absolute;
@@ -5523,8 +5523,8 @@ li.list-arrow {
 }
 
 .team-area.style-inner .single-team-thumb img {
-  width: 73%;
-  padding-top: 200px;
+  /* width: 73%; */
+  padding-top: 150px;
   z-index: 2;
   position: relative;
 }

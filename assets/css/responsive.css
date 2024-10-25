@@ -364,8 +364,8 @@ h3.blog-title a {
 }
 
 .single-counter-box {
-    right: 12px;
-    top: 12px;
+    right: 1320px;
+    top: 39px;
 }
 
 .project-area.style-two .row.project {
@@ -722,8 +722,8 @@ h3.service-title {
 }
 
 .single-counter-box {
-    right: 20px;
-    top: 12px;
+    right: -320px;
+    top: 39px;
 }
 
 .project-area.style-two .row.project {
@@ -1299,8 +1299,8 @@ h3.blog-title a {
 }
 
 .single-counter-box {
-    right: -2px;
-    top: 83px;
+    right: -320px;
+    top: 39px;
 }
 
 .about-us-shape2 {
@@ -2575,7 +2575,8 @@ p.section-title-descr {
 }
 
 .single-counter-box {
-    right: 0px;
+    top: 220px;
+    right: -70px;
 }
 
 .about-us-content {
@@ -3349,7 +3350,7 @@ h1.section-main-title2 {
 }
 
 .single-counter-box {
-    right: 0;
+    display: none;
     padding: 65px 25px 30px;
 }
 
@@ -4215,8 +4216,7 @@ h3.blog-title-two a {
 }
 
 .single-counter-box {
-    right: 34px;
-    top: 233px;
+    display: none;
 }
 
 .about-us-thumb {
