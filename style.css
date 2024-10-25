@@ -444,7 +444,7 @@ nav.solutek_menu span {
   background-repeat: no-repeat;
   z-index: -1;
   right: -10%;
-  top: -25%;
+  top: -20%;
   -webkit-animation-name: rotateme;
   -webkit-animation-duration: 15s;
   -webkit-animation-iteration-count: infinite;
